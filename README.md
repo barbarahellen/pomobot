@@ -9,8 +9,8 @@ O Pomobot seria um bot do Discord com a finalidade de organizar o seu estudo, de
 
 ### Versão Mobile com menu lateral
 <div align = center>
-<img hspace = "20" src = "https://user-images.githubusercontent.com/91560661/175795987-7e522922-6c94-4175-ba34-2faef88b7ed4.png">
-<img src = "https://user-images.githubusercontent.com/91560661/175795991-f4e15711-862b-4b83-a487-8e7f768365da.png">
+<img width = "300" hspace = "20" src = "https://user-images.githubusercontent.com/91560661/175795987-7e522922-6c94-4175-ba34-2faef88b7ed4.png" >
+<img width = "300" src = "https://user-images.githubusercontent.com/91560661/175795991-f4e15711-862b-4b83-a487-8e7f768365da.png">
 </div>
 
 
